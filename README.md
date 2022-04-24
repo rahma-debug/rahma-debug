@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rahma JALLOULI</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Rahma JALLOULI from Tunisia</h1>
 
+<h3 align="center">I'm a Computer Science and Engineering Student</h3>
+
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me **rahma.jallouli@enis.tn**
-
-<h3 align="left">Connect with me:</h3>
+- ### Contact with me 📝
 <p align="left">
 <a href="https://linkedin.com/in/rahma-jallouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahma-jallouli" height="30" width="40" /></a>
 </p>
