@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Computer Science and Engineering Student</h3>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me **rahma.jallouli@enis.tn**
