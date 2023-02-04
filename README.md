@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahma JALLOULI from Tunisia</h1>
 
-<h3 align="center">I'm a Computer Science and Engineering Student</h3>
+<h3 align="center">I'm a Computer and Engineering Student</h3>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
